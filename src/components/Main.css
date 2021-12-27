@@ -5,8 +5,8 @@
     display:flex;
     padding-bottom:20px;
     border-bottom:1px solid #fff;
-    margin-top: 10px;
-    margin-left: -20px;
+    margin-top:10px;
+    margin-left:-20px;
 }
 .punkHighlight{
     flex:0.25;
